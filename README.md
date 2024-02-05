@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yash Kumar Roy</h1>
-<h3 align="center">A Computer Science and Engineering Graduate Student from India</h3>
+<h3 align="center">A Computer Science and Engineering Graduate from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=spidy21&label=Profile%20views&color=0e75b6&style=flat" alt="spidy21" /> </p>
 
@@ -11,9 +11,9 @@
 
 - 📫 How to reach me **yashkumarroy164@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1XH4ik9jfrXSPEcjDtZeKuzSFSnTj7eHWEru9BMTPkpc/edit?usp=sharing](https://docs.google.com/document/d/1XH4ik9jfrXSPEcjDtZeKuzSFSnTj7eHWEru9BMTPkpc/edit?usp=sharing)
+- 📄 Know about my experiences [https://docs.google.com/document/d/1_PT5hB02r3mIpiZKImhfuQqiWIonKnaF/edit?usp=sharing&ouid=108000932121236527566&rtpof=true&sd=true](https://docs.google.com/document/d/1_PT5hB02r3mIpiZKImhfuQqiWIonKnaF/edit?usp=sharing&ouid=108000932121236527566&rtpof=true&sd=true)
 
-- ⚡ Fun fact **I think I am introvert**
+- ⚡ Fun fact **We human are the advaned reinforcement learning model.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
