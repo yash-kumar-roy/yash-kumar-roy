@@ -3,15 +3,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=spidy21&label=Profile%20views&color=0e75b6&style=flat" alt="spidy21" /> </p>
 
-- 🔭 I’m currently working on [Oil Price Forecasting(Time Series)](https://github.com/SpidY21/Oil-Price-Prediction)
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=spidy21" alt="spidy21" /></a> </p>
 
-- 🌱 I’m currently learning **Data Science**
+- 🔭 I’m currently working on [Bankruptcy (Classification Model)](https://github.com/SpidY21/Bankruptcy)
+
+- 🌱 I’m currently learning **NLP and Power BI**
 
 - 👨‍💻 All of my projects are available at [https://github.com/SpidY21](https://github.com/SpidY21)
 
 - 📫 How to reach me **yashkumarroy164@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1_PT5hB02r3mIpiZKImhfuQqiWIonKnaF/edit?usp=sharing&ouid=108000932121236527566&rtpof=true&sd=true](https://docs.google.com/document/d/1_PT5hB02r3mIpiZKImhfuQqiWIonKnaF/edit?usp=sharing&ouid=108000932121236527566&rtpof=true&sd=true)
+- 📄 Know about my experiences [https://drive.google.com/drive/folders/11xn2vJ18qiLoGs5-MGESZVzFnVWBSXVU?ths=true](https://drive.google.com/drive/folders/11xn2vJ18qiLoGs5-MGESZVzFnVWBSXVU?ths=true)
 
 - ⚡ Fun fact **We human are the advaned reinforcement learning model.**
 
