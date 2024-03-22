@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Bankruptcy (Classification Model)](https://github.com/SpidY21/Bankruptcy)
 
-- 🌱 I’m currently learning **NLP and Power BI**
+- 🌱 I’m currently learning **Power BI openCV**
 
 - 👨‍💻 All of my projects are available at [https://github.com/SpidY21](https://github.com/SpidY21)
 
