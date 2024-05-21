@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yash Kumar Roy</h1>
-<h3 align="center">A Computer Science and Engineering Graduate from India</h3>
+<h3 align="center">Currently Doing PG Diploma in Data Science and AI from IIITB</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=spidy21&label=Profile%20views&color=0e75b6&style=flat" alt="spidy21" /> </p>
 
