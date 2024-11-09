@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **yashkumarroy164@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ERnW4RrjMzKOhG8esU1t5tweTsS3xJ6e/view?usp=sharing](https://drive.google.com/file/d/1ERnW4RrjMzKOhG8esU1t5tweTsS3xJ6e/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://spidy21.github.io/minimal_about_page/)
 
 - ⚡ Fun fact **We human are the advaned reinforcement learning model.**
 
