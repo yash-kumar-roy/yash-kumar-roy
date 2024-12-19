@@ -11,11 +11,11 @@
 
 - 👯 I’m looking to collaborate on **Chat Bot Project with finetuning**
 
-- 👨‍💻 All of my projects are available at [https://github.com/SpidY21](https://github.com/SpidY21)
+- 👨‍💻 All of my projects are available at [Portfolio](https://spidy21.github.io/minimal_about_page/)
 
 - 📫 How to reach me **yashkumarroy164@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://spidy21.github.io/minimal_about_page/)
+- 📄 Know about my experiences [Resume](https://spidy21.github.io/minimal_about_page/image/Yash.pdf)
 
 - ⚡ Fun fact **We human are the advaned reinforcement learning model.**
 
