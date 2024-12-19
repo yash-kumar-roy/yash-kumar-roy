@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Chat Bot Project with finetuning**
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://spidy21.github.io/minimal_about_page/)
+- 👨‍💻 All of my projects are available at my [Portfolio](https://spidy21.github.io/minimal_about_page/)
 
 - 📫 How to reach me **yashkumarroy164@gmail.com**
 
