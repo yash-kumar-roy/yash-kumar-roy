@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Yash Kumar Roy</h1>
 <h3 align="center">Currently Doing MS from Liverpool John Moores University in Data Science & AI</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=spidy21&label=Profile%20views&color=0e75b6&style=flat" alt="spidy21" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yash-kumar-roy&label=Profile%20views&color=0e75b6&style=flat" alt="yash-kumar-roy" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=spidy21" alt="spidy21" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yash-kumar-roy" alt="yash-kumar-roy" /></a> </p>
 
 - 🔭 I’m currently working on **Style Transfer using GAN**
 
@@ -11,11 +11,11 @@
 
 - 👯 I’m looking to collaborate on **Chat Bot Project with finetuning**
 
-- 👨‍💻 All of my projects are available at my [Portfolio](https://spidy21.github.io/minimal_about_page/)
+- 👨‍💻 All of my projects are available at my [Portfolio](https://yash-kumar-roy.github.io/yashkumarroy/)
 
 - 📫 How to reach me **yashkumarroy164@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://spidy21.github.io/minimal_about_page/image/Yash.pdf)
+- 📄 Know about my experiences [Resume](https://github.com/yash-kumar-roy/yashkumarroy/blob/main/resume.pdf)
 
 - ⚡ Fun fact **We human are the advaned reinforcement learning model.**
 
@@ -40,4 +40,4 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/yashkumarroy"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="yashkumarroy" /></a></p><br><br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=spidy21&show_icons=true&locale=en&layout=compact" alt="spidy21" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yash-kumar-roy&show_icons=true&locale=en&layout=compact" alt="yash-kumar-roy" /></p>
