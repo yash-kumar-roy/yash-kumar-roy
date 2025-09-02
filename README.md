@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yash-kumar-roy" alt="yash-kumar-roy" /></a> </p>
 
-- 🔭 I’m currently working on **Style Transfer using GAN**
+- 🔭 I’m currently working on **Hand Gesture Recognition**
 
-- 🌱 I’m currently learning **Generative AI**
+- 🌱 I’m currently learning **Advance Machine Learning**
 
-- 👯 I’m looking to collaborate on **Chat Bot Project with finetuning**
+- 👯 I’m looking to collaborate on **LLM with finetuning**
 
 - 👨‍💻 All of my projects are available at my [Portfolio](https://yash-kumar-roy.github.io/yashkumarroy/)
 
@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [Resume](https://github.com/yash-kumar-roy/yashkumarroy/blob/main/resume.pdf)
 
-- ⚡ Fun fact **We human are the advaned reinforcement learning model.**
+- ⚡ Fun fact **We human are the advaned reinforcement learning model😉.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
