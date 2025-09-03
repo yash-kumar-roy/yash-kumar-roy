@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yash Kumar Roy</h1>
-<h3 align="center">Currently Doing MS from Liverpool John Moores University in Data Science & AI</h3>
+<h3 align="center">Working as a Data Science Associate at Sequence Surface.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yash-kumar-roy&label=Profile%20views&color=0e75b6&style=flat" alt="yash-kumar-roy" /> </p>
 
