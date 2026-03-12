@@ -1,43 +1,64 @@
-<h1 align="center">Hi 👋, I'm Yash Kumar Roy</h1>
-<h3 align="center">Working as a Data Science Associate at Sequence Surface.</h3>
+# Hello 👋, I'm Yash Kumar Roy
+### Data Scientist
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yash-kumar-roy&label=Profile%20views&color=0e75b6&style=flat" alt="yash-kumar-roy" /> </p>
+1 year of experience as Data Scientist skilled in Python, Machine Learning, Deep Learning, and Generative AI, with experience building end-to-end AI solutions including RAG systems, predictive models, and GAN-based applications. Strong in
+data preprocessing, model development, and deployment using tools like Scikit-learn, TensorFlow/PyTorch, SQL, and LLM
+frameworks.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yash-kumar-roy" alt="yash-kumar-roy" /></a> </p>
+## Contact Me
+<p><a href="https://www.linkedin.com/in/yashkumarroy/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="https://yash-kumar-roy.github.io/yashkumarroy/" target="_blank"><img src="https://img.shields.io/badge/Website-%23FF7139.svg?&style=flat-square&logo=Firefox&logoColor=white" alt="Website"></a> <a href="https://www.instagram.com/yashkumarroy/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a> </p>
 
-- 🔭 I’m currently working on **Hand Gesture Recognition**
+## Skills
 
-- 🌱 I’m currently learning **Advance Machine Learning**
-
-- 👯 I’m looking to collaborate on **LLM with finetuning**
-
-- 👨‍💻 All of my projects are available at my [Portfolio](https://yash-kumar-roy.github.io/yashkumarroy/)
-
-- 📫 How to reach me **yashkumarroy164@gmail.com**
-
-- 📄 Know about my experiences [Resume](https://github.com/yash-kumar-roy/yashkumarroy/blob/main/resume.pdf)
-
-- ⚡ Fun fact **We human are the advaned reinforcement learning model😉.**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/yashkumarroy5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yashkumarroy5" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/yashkumarroy21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yashkumarroy21" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/yash-kumar-roy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="yash-kumar-roy" height="30" width="40" /></a>
-<a href="https://kaggle.com/yashkumarroy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="yashkumarroy" height="30" width="40" /></a>
-<a href="https://instagram.com/yashkumarroy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yashkumarroy" height="30" width="40" /></a>
-<a href="https://medium.com/@yashkumarroy164" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@yashkumarroy164" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/chefroy21" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="chefroy21" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/yashkumarroy164" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="yashkumarroy164" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/spidy90180" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="spidy90180" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@yashkumarroy164" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@yashkumarroy164" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/yashkumarroy164" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="yashkumarroy164" height="30" width="40" /></a>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="jupyter" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="40" height="40"/>&nbsp;
+<img src="https://cdn-icons-png.flaticon.com/128/8637/8637101.png" alt="machine learning" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>&nbsp;
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+## Projects
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/yashkumarroy"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="yashkumarroy" /></a></p><br><br>
+### Generative Document Search System using LlamaIndex & HuggingFace Embeddings
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yash-kumar-roy&show_icons=true&locale=en&layout=compact" alt="yash-kumar-roy" /></p>
+<img src="https://blogs.nvidia.com/wp-content/uploads/2023/11/Retrieval-Augmented-Generation-RAG-KV-1.jpg" alt="Generative Document Search System using LlamaIndex & HuggingFace Embeddings" width="300"/>
+
+This project is a Generative AI-powered document search engine that enables users to ask natural language queries against a collection of unstructured documents (PDFs, DOCX, CSVs). It leverages LlamaIndex, OpenAI LLMs, and HuggingFace Embeddings to perform semantic search over documents.
+
+[View Project](https://github.com/yash-kumar-roy/RAG-Question-Answering-System)
+
+---
+
+## GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=yash-kumar-roy&show_icons=true&count_private=true&theme=default" alt="GitHub İstatistikleri" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yash-kumar-roy&layout=compact&theme=default" alt="En Çok Kullanılan Diller" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=yash-kumar-roy&theme=default" alt="GitHub Streak" />
+
+<img src="https://profile-counter.glitch.me/yash-kumar-roy/count.svg?" alt="visitors count" />
+
+## Support Me
+
+<a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/yashkumarroy"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee" /></a>
+
+## GitHub Trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=yash-kumar-roy" alt="trophy" />
+
+## GitHub Activity Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yash-kumar-roy&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph" />
+
